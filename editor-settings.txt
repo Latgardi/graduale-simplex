@@ -1,0 +1,4 @@
+Horizontal spacing: max
+Lyric font size: 14pt
+Title allign: left
+Title font size: 16pt
